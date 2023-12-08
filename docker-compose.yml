@@ -15,7 +15,7 @@ services:
       EULA: true
       MOTD: "CCH Server"
       DIFFICULTY: "HARD"
-      SEED: ""
+      SEED: "-8364859455763282250"
       SPAWN_PROTECTION: 0
       VIEW_DISTANCE: 6
       OPS_FILE: "https://ryleu.me/christmas-modpack-2023/minecraft/ops.json"
