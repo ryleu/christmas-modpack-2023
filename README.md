@@ -19,7 +19,7 @@ minecraft server configuration for my 2023 christmas modpack
 
 ![Import screen in Prism Launcher](docs/import.png)
 
-5. Paste this link into the blank space: <https://github.com/ryleu/christmas_modpack_2023/releases/latest/download/christmas_modpack_2023.zip>
+5. Paste this link into the blank space: <https://github.com/ryleu/christmas-modpack-2023/releases/download/auto-update/christmas_modpack_2023.zip>
 6. Press "OK".
 
 You're done! Double click the instance to run it. The first time you run it, it'll automatically download all of the mods in the pack.
