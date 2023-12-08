@@ -656,6 +656,11 @@ hash = "776f3902dc8cd33ee83f85b122b971ac8adb79006199eeb4f30b0e5493946c97"
 metafile = true
 
 [[files]]
+file = "mods/frostiful.pw.toml"
+hash = "24a339aa6618d4578afcef5c92b4e5685529873173c244c608efa465f78276ff"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "f28b7f16e0b89f86a625691db438fd69c1029f0fa1aea46bd415036a423a2880"
 metafile = true
@@ -818,6 +823,11 @@ metafile = true
 [[files]]
 file = "mods/runes.pw.toml"
 hash = "64dd26764b474b4f2831197a2873ea86156f0c68518cee18eb78dcb962273434"
+metafile = true
+
+[[files]]
+file = "mods/sandwichable.pw.toml"
+hash = "f940a85f7fce47ee3228e10dfde0c7a818d5464337bb8ba0b7074b421975e359"
 metafile = true
 
 [[files]]

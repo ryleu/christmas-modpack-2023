@@ -1,0 +1,8 @@
+name = "Frostiful"
+filename = "frostiful-1.0.0-alpha.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.discordapp.com/attachments/998668985568604190/1182722111152857259/frostiful-1.0.0-alpha.1.jar"
+hash-format = "sha1"
+hash = "3970697863d6598bf1b2f6f85c0874f444727aab"
