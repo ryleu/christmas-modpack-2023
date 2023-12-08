@@ -1,0 +1,13 @@
+name = "Snowballs Freeze Mobs"
+filename = "snowballsfreezemobs-1.20.1-3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ETKe9DNz/versions/KPbiqmEV/snowballsfreezemobs-1.20.1-3.2.jar"
+hash-format = "sha1"
+hash = "cae5cd685410b584d35a6893a0bd2260e07bdecf"
+
+[update]
+[update.modrinth]
+mod-id = "ETKe9DNz"
+version = "KPbiqmEV"

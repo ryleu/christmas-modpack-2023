@@ -1,0 +1,13 @@
+name = "Snowy"
+filename = "snowy-fabric-2.2.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/V5AokBLJ/versions/vOU5vKOS/snowy-fabric-2.2.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "a15ec653f1b152eb61dd79efa534d379470dcf13"
+
+[update]
+[update.modrinth]
+mod-id = "V5AokBLJ"
+version = "vOU5vKOS"

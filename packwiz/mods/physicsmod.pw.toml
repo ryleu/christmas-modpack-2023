@@ -1,0 +1,13 @@
+name = "Physics Mod"
+filename = "physics-mod-3.0.10-mc-1.20.1-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Xy8aRQKS/versions/piWaPIDM/physics-mod-3.0.10-mc-1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "1a2712d7e4f6622496ffd3adbde184655340eb55"
+
+[update]
+[update.modrinth]
+mod-id = "Xy8aRQKS"
+version = "piWaPIDM"

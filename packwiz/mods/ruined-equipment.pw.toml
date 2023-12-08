@@ -1,0 +1,13 @@
+name = "Ruined Equipment"
+filename = "ruined-equipment-2.3.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zetXCfSw/versions/qs15khHy/ruined-equipment-2.3.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "465ffb4e7af1eba57e4e2bc0e3ec333d4b0c558a"
+
+[update]
+[update.modrinth]
+mod-id = "zetXCfSw"
+version = "qs15khHy"
