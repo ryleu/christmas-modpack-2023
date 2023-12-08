@@ -1,5 +1,8 @@
 slumber true
 
+gamerule doInsomnia false
+gamerule doFireTick false
+
 team add nocollision "No Collision"
 team modify nocollision collisionRule always
 

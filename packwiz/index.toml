@@ -114,7 +114,7 @@ hash = "a6f92c9ebd4d2b578d446bbb62504fd8bc7bac8fb7273ab49a174bf0779122d0"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/load.mcfunction"
-hash = "e0cf6e7ac881a852d88d02e3477cf0195beea52ddc24474979798b607d25b54e"
+hash = "ee94a43113a7b20af5e5b44b93b96826793502090cb0f0a8e79f7072602adaad"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/tick.mcfunction"
