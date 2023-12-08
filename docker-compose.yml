@@ -13,7 +13,7 @@ services:
       TYPE: "FABRIC"
       PACKWIZ_URL: "https://ryleu.me/christmas-modpack-2023/packwiz/pack.toml"
       EULA: true
-      MOTD: "CCH Server"
+      MOTD: "Christmas Server"
       DIFFICULTY: "HARD"
       SEED: "-8364859455763282250"
       SPAWN_PROTECTION: 0
