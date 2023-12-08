@@ -1,0 +1,13 @@
+name = "Merge Enchantments"
+filename = "merenc-fabric-1.20.x-v3.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xZUFmYJ5/versions/3jX16AeT/merenc-fabric-1.20.x-v3.2.jar"
+hash-format = "sha1"
+hash = "2e1a9e3d240f3e928de74e961196fdc2ae7e0425"
+
+[update]
+[update.modrinth]
+mod-id = "xZUFmYJ5"
+version = "3jX16AeT"

@@ -1,0 +1,13 @@
+name = "FrostFlite"
+filename = "frostflite-v1.2.5-mc_1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GRfEMvwg/versions/nETjrL3J/frostflite-v1.2.5-mc_1.20.1.jar"
+hash-format = "sha1"
+hash = "73a4c1fc2534380c7a9ce53fcb86a8164cd5b0f5"
+
+[update]
+[update.modrinth]
+mod-id = "GRfEMvwg"
+version = "nETjrL3J"

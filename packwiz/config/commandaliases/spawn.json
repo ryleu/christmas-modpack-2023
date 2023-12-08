@@ -1,0 +1,11 @@
+{
+    "schemaVersion": 1,
+    "commandMode": "COMMAND_CUSTOM",
+    "command": "spawn",
+    "actions": [
+        {
+            "command": "warp spawn $executor_name()",
+            "commandType": "SERVER"
+        }
+    ]
+}
