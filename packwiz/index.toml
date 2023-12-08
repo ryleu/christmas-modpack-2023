@@ -73,6 +73,10 @@ file = "config/physicsmod/physics_server_config.json"
 hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
 
 [[files]]
+file = "config/snowrealmagic-common.yaml"
+hash = "159d124b747cd3a1d28e99a0e0b859209395a4454df203f9692da025c6ed3e6c"
+
+[[files]]
 file = "config/universal-graves/config.json"
 hash = "e596aa129e589df722d78ff1db36c341114e71c42292bdd1448d9f72356694f7"
 
@@ -864,11 +868,6 @@ metafile = true
 [[files]]
 file = "mods/snowy.pw.toml"
 hash = "33331199e33c822f68f6b9c7491888c40aeded98af8eafd592fe6c8ed29c4052"
-metafile = true
-
-[[files]]
-file = "mods/snowyleavesplus.pw.toml"
-hash = "48d1ccede27a3ac51475737d661c8aa4e2cbd30de4113eacea15b7d2b9f9342b"
 metafile = true
 
 [[files]]
