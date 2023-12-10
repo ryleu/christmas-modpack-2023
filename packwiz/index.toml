@@ -61,6 +61,10 @@ file = "config/commandaliases/unclaim.json"
 hash = "95744d414850c77908c947a2cdf7f25b82617dde547a28f7e66c342cde1d31e8"
 
 [[files]]
+file = "config/frostiful.json"
+hash = "6afe817c9966544a6257796e3b7d24480d9991f397cd960c5b5b8942685887d0"
+
+[[files]]
 file = "config/lithium.properties"
 hash = "1c8383a1026cbbcd1b20e9c65e5e80b3552f3c2b4ec96bb32d520eeca3e0f5b9"
 
