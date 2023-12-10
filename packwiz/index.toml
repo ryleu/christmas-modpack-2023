@@ -599,6 +599,11 @@ hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
+file = "mods/festive-delight.pw.toml"
+hash = "7a8626b88b4f0179a31970587a15f2e14a066363cb7e2cf467080f846ae91f37"
+metafile = true
+
+[[files]]
 file = "mods/frost-flite.pw.toml"
 hash = "776f3902dc8cd33ee83f85b122b971ac8adb79006199eeb4f30b0e5493946c97"
 metafile = true

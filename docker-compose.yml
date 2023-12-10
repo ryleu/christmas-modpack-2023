@@ -19,7 +19,8 @@ services:
       SPAWN_PROTECTION: 0
       VIEW_DISTANCE: 6
       OPS_FILE: "https://ryleu.me/christmas-modpack-2023/minecraft/ops.json"
-      ENABLE_WHITELIST: false
+      WHITELIST_FILE: "https://ryleu.me/christmas-modpack-2023/minecraft/whitelist.json"
+      # ENABLE_WHITELIST: false
       MEMORY: "6G"
       USE_AIKAR_FLAGS: true
       VERSION: "1.20.1"
