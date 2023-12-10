@@ -105,20 +105,20 @@ file = "global_packs/required_data/christmas/data/christmas/functions/drink_coff
 hash = "eb36268e1972f41ec0a220147c1cb6d9227ac61f07a5741675e73adec36df00b"
 
 [[files]]
-file = "global_packs/required_data/christmas/data/christmas/functions/drink_hot_chocolate.mcfuntion"
-hash = "7393806dbe79b7392d43f1ac03767b9b32dfa5ffbe781242ef51e2134f8ed7eb"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/christmas/functions/drink_hot_drink.mcfunction"
+file = "global_packs/required_data/christmas/data/christmas/functions/drink_glow_berry_tea.mcfunction"
 hash = "a6f92c9ebd4d2b578d446bbb62504fd8bc7bac8fb7273ab49a174bf0779122d0"
 
 [[files]]
+file = "global_packs/required_data/christmas/data/christmas/functions/drink_hot_chocolate.mcfunction"
+hash = "7393806dbe79b7392d43f1ac03767b9b32dfa5ffbe781242ef51e2134f8ed7eb"
+
+[[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/load.mcfunction"
-hash = "ee94a43113a7b20af5e5b44b93b96826793502090cb0f0a8e79f7072602adaad"
+hash = "0b6495012231a5c5b53315d8842f44dd52a320e65d09285eac7cb80b30a34a69"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/tick.mcfunction"
-hash = "6c87fdea1187be711a4539182ddc16a117a04890b07ba64d751e68af7fecdc9c"
+hash = "f6088b7d911fafb3e3ebe1d5ab384430b937e367ce48285f6fc69a1d485744c6"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/recipes/coarse_dirt_crushing.json"
@@ -127,10 +127,6 @@ hash = "0e371bc5ba73307d8da9b26cbaf58c3f7a5a4c6473102cbaeb48b158064de849"
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/recipes/coarse_dirt_shapeless.json"
 hash = "b890f41f3e387fe3bb264de879d2fc126d5852a13b588322f028da5428a9e368"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/christmas/recipes/cobble_to_pebbles.json"
-hash = "b3dc8054fa67de665ba1d874470b24a0b17629e866373fca5291a9ec199a20ce"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/recipes/crush_snow.json"
@@ -173,56 +169,16 @@ file = "global_packs/required_data/christmas/data/farmersdelight/weapon_attribut
 hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
 
 [[files]]
-file = "global_packs/required_data/christmas/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_boots.json"
-hash = "d30e02477055f8d3f281d6342902f8d8ec9e23216d38aa6eee2d0c568ad97839"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_chestplate.json"
-hash = "5af459bcf17ac04430a47685cd7230d7addcc89712474a9c3e138e07baa20e0f"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_helmet.json"
-hash = "21bcaf97e12ea38d0627741997e516d2d0f9a1de6ff386fa7c15dc96ca6565b0"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_leggings.json"
-hash = "1d7a4285beb67546558eb5933a45d5c3376619426db59f258f829846a0362a34"
-
-[[files]]
 file = "global_packs/required_data/christmas/data/minecraft/tags/functions/load.json"
-hash = "bc5db8b9ef54a9234c81028d502258a07c0caad268a05acbe568e5d567333a25"
+hash = "97cf1abfc3ade9c5bd3370c15dbb721d451422a00ce4e52ad0637ee37899bac2"
 
 [[files]]
-file = "global_packs/required_data/christmas/data/noel/recipes/candy_cane.json"
-hash = "cc7d94da7b019d1eda1427154c232e604a857e212eed78d2149b70f2d3f5b235"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/noel/recipes/candy_cane_from_block.json"
-hash = "37e2ec21cc7e5cef909e7aba28828d4692477b5086c33418b9b5fc86c61fa41d"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/noel/recipes/peppermint_candy.json"
-hash = "8c70fcf81633cddae52acd782fd842f4439df88eaa0bff17f8be6e578789a63b"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/noel/recipes/peppermint_log.json"
-hash = "5050e3b9526950a47fc55e1101099c7664da7d8a51be43f00c75028df5953630"
+file = "global_packs/required_data/christmas/data/minecraft/tags/functions/tick.json"
+hash = "2134d841c8bec1c59c0b2fc6eb1178fc659d21062641a716ef240d8ed7bec0be"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/qu-enchantments/tags/entity_types/nightblood_immune_entities.json"
 hash = "59f0b79c715ad5426c65995982bc69908c9c47a64da6d7dc6a461580e9b7334b"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/ratsmischief/recipes/leather_rat_pouch.json"
-hash = "ea0e0c6b06e72464cc2be1ae9a470bb692ea3dc282b05710c9babbfd5bd475ef"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/simplechunkloader/recipes/chunkloader.json"
-hash = "7d83e23b39df0097f5d158ccbe9d17cb2041af8c5f0379eb8e8bb1ad9e2fe217"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/snowyspirit/recipes/candy_cane.json"
-hash = "6578571b879eea9475d3c86fd1690f1116bcff538c83b4c54fe65969a855a632"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/gen_glow_lights.py"
@@ -297,28 +253,8 @@ file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_light
 hash = "1586a8838c18fbf04fb2dd25975e229d2574efa05a147e97d6336980bf9ecc5a"
 
 [[files]]
-file = "global_packs/required_data/christmas/data/winterwonderland/functions/drink_coffee.mcfunction"
-hash = "eb36268e1972f41ec0a220147c1cb6d9227ac61f07a5741675e73adec36df00b"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/winterwonderland/functions/drink_hot_chocolate.mcfuntion"
-hash = "7393806dbe79b7392d43f1ac03767b9b32dfa5ffbe781242ef51e2134f8ed7eb"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/winterwonderland/functions/drink_hot_drink.mcfunction"
-hash = "a6f92c9ebd4d2b578d446bbb62504fd8bc7bac8fb7273ab49a174bf0779122d0"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/winterwonderland/functions/load.mcfunction"
-hash = "2494e03b208cba4c248016fe5ae865f646cef57bc430508043d00ecbf934ba77"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/winterwonderland/functions/tick.mcfunction"
-hash = "3281ce59eb28abc0c17f817f4a9218a558734f82b99061988748a1d9acf0c1cb"
-
-[[files]]
 file = "global_packs/required_data/christmas/pack.mcmeta"
-hash = "f351c33c87dfeeaf9b1bbf09270b7d5450d33d680fdf7c7b8ad0a063318641ee"
+hash = "edd3db6af1b5c7c3b9137618aa8093610af8e28ead73c0a4d9661131bb3687f8"
 
 [[files]]
 file = "global_packs/required_resources/fresh-animations.pw.toml"
@@ -821,11 +757,6 @@ hash = "385f810437d6f3b81f72568107ee3bedb78660c30d4375a3b71499917ab311b4"
 metafile = true
 
 [[files]]
-file = "mods/runes.pw.toml"
-hash = "64dd26764b474b4f2831197a2873ea86156f0c68518cee18eb78dcb962273434"
-metafile = true
-
-[[files]]
 file = "mods/sandwichable.pw.toml"
 hash = "f940a85f7fce47ee3228e10dfde0c7a818d5464337bb8ba0b7074b421975e359"
 metafile = true
@@ -858,11 +789,6 @@ metafile = true
 [[files]]
 file = "mods/snow-under-trees-remastered.pw.toml"
 hash = "f15ec0e6a22a2af1087102489a607c6e4fba1edb3e58d52eb3ede77ad0a8d826"
-metafile = true
-
-[[files]]
-file = "mods/snowball-and-egg-knockback.pw.toml"
-hash = "1cee6c3a10968b4c89f4887a24119591611388a19ec96e1d5ae2f6674526e7b8"
 metafile = true
 
 [[files]]
