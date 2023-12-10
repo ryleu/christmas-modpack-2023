@@ -1,6 +1,6 @@
 {
 	"values": [
-		"cch:load",
-		"cch:tick"
+		"christmas:load",
+		"christmas:tick"
 	]
 }

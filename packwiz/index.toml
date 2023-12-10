@@ -190,7 +190,7 @@ hash = "1d7a4285beb67546558eb5933a45d5c3376619426db59f258f829846a0362a34"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/minecraft/tags/functions/load.json"
-hash = "6dca6d5069300cfbe0c4c986396018915b4906cd4e1881686350f309d78e56ab"
+hash = "bc5db8b9ef54a9234c81028d502258a07c0caad268a05acbe568e5d567333a25"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/noel/recipes/candy_cane.json"
