@@ -153,6 +153,14 @@ file = "global_packs/required_data/christmas/data/christmas/tags/entity_types/pa
 hash = "5db88eb8be186a2b3746be39059a7a385290dce83bf7d26d48582b5e06f42b0a"
 
 [[files]]
+file = "global_packs/required_data/christmas/data/create/tags/items/vanilla_stripped_logs.json"
+hash = "117458e39bbe1634a31bc039717a1ad46d44e15ab3b695954d42ffc86f75f0df"
+
+[[files]]
+file = "global_packs/required_data/christmas/data/create/tags/items/vanilla_stripped_wood.json"
+hash = "e5fd2ff3d95a53b446bc307fa09e7682df8ef55af31637d5278a870ca859f5ae"
+
+[[files]]
 file = "global_packs/required_data/christmas/data/farmersdelight/weapon_attributes/diamond_knife.json"
 hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
 
