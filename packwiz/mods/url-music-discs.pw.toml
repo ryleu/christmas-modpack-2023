@@ -1,0 +1,13 @@
+name = "URL Music Discs"
+filename = "urlmusicdiscs-1.1.0+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eWPefssR/versions/M2sm37cg/urlmusicdiscs-1.1.0%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "852c8c6025705a4002cde8ec6923c6edea1dbc60"
+
+[update]
+[update.modrinth]
+mod-id = "eWPefssR"
+version = "M2sm37cg"
