@@ -110,15 +110,15 @@ hash = "4cefc36dc1ad8737b92db8c912bb8386e43ca0323e0515ac2ed13be5b5082af5"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/drink_coffee.mcfunction"
-hash = "eb36268e1972f41ec0a220147c1cb6d9227ac61f07a5741675e73adec36df00b"
+hash = "a644f71a1f962b04dd97bbdb1e234e7d3609425051befa9cf615df4d981c18b2"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/drink_glow_berry_tea.mcfunction"
-hash = "a6f92c9ebd4d2b578d446bbb62504fd8bc7bac8fb7273ab49a174bf0779122d0"
+hash = "5e9ed599479d8e24813a6d4c0ff66ba85c1ea98ebaf5112b93e2fa56f027ce44"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/drink_hot_chocolate.mcfunction"
-hash = "7393806dbe79b7392d43f1ac03767b9b32dfa5ffbe781242ef51e2134f8ed7eb"
+hash = "551107327e631a10ccc2de6b0df236257d8570b1eda637b49c25ff51c55d2503"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/load.mcfunction"
@@ -285,11 +285,6 @@ metafile = true
 [[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "83597854911e6f8424f82796dc7d8ef20f72d4d656d37112bc31bfd2b1ffaa81"
-metafile = true
-
-[[files]]
-file = "mods/amecs.pw.toml"
-hash = "d66bc9c3f81429f138de5eae6226dce25f620f90df864bf7f0f9121708bf0bcc"
 metafile = true
 
 [[files]]
@@ -888,6 +883,11 @@ hash = "5d52480f57b1b91195c6cde08c052e25df3e17addd5d5aadfeb7e8c8a594ffb9"
 metafile = true
 
 [[files]]
+file = "mods/url-music-discs.pw.toml"
+hash = "3df75e1a97ba5ca1de0af4ca1bbd9f5aa1169c646340f88526e908e8fb76bfb4"
+metafile = true
+
+[[files]]
 file = "mods/visuality.pw.toml"
 hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
 metafile = true
@@ -920,6 +920,11 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "ec7f94fcb88b139515557631074b5e90e64ea53761eb5753c2492007e24f59c4"
+metafile = true
+
+[[files]]
+file = "serializationisbad.pw.toml"
+hash = "a3eb4212984eddf245ed015ec2dcfa2bb618e62ba3d164c344dcfd068f0baa01"
 metafile = true
 
 [[files]]
