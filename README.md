@@ -8,9 +8,9 @@ minecraft server configuration for my 2023 christmas modpack
 
 | Operating System | Download Link |
 | :--------------: | :------------ |
-| Windows          | <https://adoptium.net/temurin/releases/?package=jre&os=windows&arch=x64> Use the `.msi` installer. |
-| macOS (Apple Silicon) | <https://adoptium.net/temurin/releases/?package=jre&os=mac&arch=aarch64> Use the `.pkg` installer. |
-| macOS (Intel)    | <https://adoptium.net/temurin/releases/?package=jre&os=mac&arch=x64> Use the `.pkg` installer. |
+| Windows          | <https://adoptium.net/temurin/releases/?package=jre&os=windows&arch=x64&version=17> Use the `.msi` installer. |
+| macOS (Apple Silicon) | <https://adoptium.net/temurin/releases/?package=jre&os=mac&arch=aarch64&version=17> Use the `.pkg` installer. |
+| macOS (Intel)    | <https://adoptium.net/temurin/releases/?package=jre&os=mac&arch=x64&version=17> Use the `.pkg` installer. |
 | Linux            | Use your system package manager to install Java 17 JRE or JDK. Any distribution should work, but I like OpenJDK |
 
 2. Download Prism Launcher from <https://prismlauncher.org>. Make sure you get the installer, not the portable.
