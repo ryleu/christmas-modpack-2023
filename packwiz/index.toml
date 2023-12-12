@@ -109,8 +109,12 @@ file = "config/universal-graves/example_models/soul.json"
 hash = "4cefc36dc1ad8737b92db8c912bb8386e43ca0323e0515ac2ed13be5b5082af5"
 
 [[files]]
+file = "global_packs/required_data/christmas/data/christmas/functions/arm_armor_stand.mcfunction"
+hash = "4345914316b46baf573b98ffb3a7be77741068fad5110326fc926f75b02b2f9d"
+
+[[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/drink_coffee.mcfunction"
-hash = "a644f71a1f962b04dd97bbdb1e234e7d3609425051befa9cf615df4d981c18b2"
+hash = "669fb3c2da1caa3c49e32855f65db5980431f816e0269f4e4940c9877d0f60ed"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/drink_glow_berry_tea.mcfunction"
@@ -118,7 +122,7 @@ hash = "5e9ed599479d8e24813a6d4c0ff66ba85c1ea98ebaf5112b93e2fa56f027ce44"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/drink_hot_chocolate.mcfunction"
-hash = "551107327e631a10ccc2de6b0df236257d8570b1eda637b49c25ff51c55d2503"
+hash = "f81017166afd55ddc17d372521de8efbdce39ca0b02e2e96d57bc487b8e38bea"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/load.mcfunction"
@@ -126,7 +130,7 @@ hash = "0b6495012231a5c5b53315d8842f44dd52a320e65d09285eac7cb80b30a34a69"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/tick.mcfunction"
-hash = "f6088b7d911fafb3e3ebe1d5ab384430b937e367ce48285f6fc69a1d485744c6"
+hash = "2dc5a6a28ad674e11bff5e84ea19194b61b07b72cd90fa0f7258b9e24efce7c4"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/recipes/coarse_dirt_crushing.json"
