@@ -206,7 +206,7 @@ hash = "59f0b79c715ad5426c65995982bc69908c9c47a64da6d7dc6a461580e9b7334b"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/gen_glow_lights.py"
-hash = "f167e60d3110c7a1ceb0b3c4d262ac8afcba995165bacae28e3f35f442faee0e"
+hash = "0a1e237fabe1744729429adeee6e85d00c514d3fb0384a8ff0f5a2c38081aade"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_black.json"
