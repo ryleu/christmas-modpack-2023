@@ -153,6 +153,10 @@ file = "global_packs/required_data/christmas/data/christmas/recipes/name_tag.jso
 hash = "20f03a24cf25be656a3cbe0e3fbdefe081d69069d47ec9ee471e3a0aef48dbc7"
 
 [[files]]
+file = "global_packs/required_data/christmas/data/christmas/recipes/packed_snowball.json"
+hash = "da81c399c7335c94f765b5e4e789127459fdd02e027711b24191a75bc812809a"
+
+[[files]]
 file = "global_packs/required_data/christmas/data/christmas/recipes/winterly_to_frostiful_icicles.json"
 hash = "92b8b55146b5baa48638c2327a3ece7714a61c8e4736ce6169194aa1debbbf0e"
 
