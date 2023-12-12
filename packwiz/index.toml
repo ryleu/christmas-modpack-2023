@@ -77,10 +77,6 @@ file = "config/openpartiesandclaims-server.toml"
 hash = "b72e37d67cee8ecfaf0ab986671be294f6094349583f6200a390b316e035ab33"
 
 [[files]]
-file = "config/physicsmod/physics_server_config.json"
-hash = "e6c1234596884339e56c93f3e52ae9b646c70bd245ca301775de4317a8f8928a"
-
-[[files]]
 file = "config/snowrealmagic-common.yaml"
 hash = "159d124b747cd3a1d28e99a0e0b859209395a4454df203f9692da025c6ed3e6c"
 
