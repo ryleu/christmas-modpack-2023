@@ -1,0 +1,10 @@
+{
+    "values": [
+        "mca:wedding_ring",
+        "mca:wedding_ring_rg",
+        "mca:engagement_ring",
+        "mca:engagement_ring_rg",
+        "mca:matchmakers_ring"
+    ],
+    "replace": false
+}

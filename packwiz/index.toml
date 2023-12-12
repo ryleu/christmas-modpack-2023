@@ -273,6 +273,10 @@ file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_light
 hash = "d79e74a01f2db286724c7ed77d9d092af4bf39274b8cd703fccf02ad15b76c0d"
 
 [[files]]
+file = "global_packs/required_data/christmas/data/trinkets/tags/items/hand/glove.json"
+hash = "0a4825588706a81403dfa03a0b47419af5bac7a596d0e6f2acfc63775d087f42"
+
+[[files]]
 file = "global_packs/required_data/christmas/pack.mcmeta"
 hash = "edd3db6af1b5c7c3b9137618aa8093610af8e28ead73c0a4d9661131bb3687f8"
 
