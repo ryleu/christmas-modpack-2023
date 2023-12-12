@@ -893,11 +893,6 @@ hash = "1d0b62685fd74fdd9d8cba3b3f3a85da75423550704646251a39542fce96bcb4"
 metafile = true
 
 [[files]]
-file = "mods/vmp-fabric.pw.toml"
-hash = "40f1effd2c65b6c6f9a1b5dfd0903c87df02b23da6b57f389f61f361ef86d425"
-metafile = true
-
-[[files]]
 file = "mods/winterly.pw.toml"
 hash = "bb1a48af3aa430322423c8176bb6108b7aa8ac2819d740261e6d07f64d7a4922"
 metafile = true
