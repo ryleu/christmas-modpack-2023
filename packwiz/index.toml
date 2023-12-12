@@ -451,11 +451,6 @@ hash = "39eb9db990032d949909f079ada415ffda18b372ec5d9b23ab95652d88474131"
 metafile = true
 
 [[files]]
-file = "mods/cyberanner-ironchest.pw.toml"
-hash = "af9263e844d38c6e46495f2ed42a8e0a52b16784d9b64601b010c0eb58158ff9"
-metafile = true
-
-[[files]]
 file = "mods/dcwa.pw.toml"
 hash = "e96c71e46932e7060f04e19145977c2ca71686f373273a8fae78f933a37b1b75"
 metafile = true
