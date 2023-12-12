@@ -19,7 +19,7 @@ template = \
     },
     "result": {
         "item": "snowyspirit:glow_lights_color",
-        "count": 8
+        "count": 16
     }
 }"""
 

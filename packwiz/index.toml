@@ -202,55 +202,55 @@ hash = "59f0b79c715ad5426c65995982bc69908c9c47a64da6d7dc6a461580e9b7334b"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/gen_glow_lights.py"
-hash = "f96509dc9e9a0c8d8189d289005bd4014eaca7942ccbea21a9d661e17892acbd"
+hash = "f573106d459f2a2db3c8849cc411f0d2946699513dfaee7a6b0101e51d93afab"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_black.json"
-hash = "708a9010913ae8a8d7e27edb10ab9368b5437a0535198a49e12a2668795f36f4"
+hash = "54e0d6269bc6a5466541606d3fd5d879c6194dac37a76630c35363994398a130"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_blue.json"
-hash = "771cfe16b096dc9d5270a3b53fc173058d8d09b47b9c51e9c39766862a79fb04"
+hash = "4050b528b377dbfa977cc2fb59ec2587c1d4a73a6daf1dd6d9930173eab3064b"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_brown.json"
-hash = "daa5a9449acf08917155e8bbf1ca500bdc885e31fdbed9c5edc2235fcac55176"
+hash = "c028a73de3c6a20915940e3156aabb1c1f04bafb2fdd0e63955fbf3311e82015"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_cyan.json"
-hash = "e71938181b30e5fd2c4142d83dc55eaf113f06a253f0586b44845d15ecd87971"
+hash = "87a9e5aa9b060842ac7fa520e693016a5cf8c6e50e51cebe82d3f44aee6e6b96"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_gray.json"
-hash = "e41dd871a09bdc809f15ec4c0fbb0ad6523ed3e41476bee65836b549fa8251c3"
+hash = "89f9b43b5697cbf5c08549daefd0bfea4c17df31787e3aa2a7b598f2a53f9cfd"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_green.json"
-hash = "5732c543333d0d05252694fc25b977caf7f6fbca077ddefd077b607828584650"
+hash = "4fae99b5f7d6b3eb74491754a005b3207fd9f4fe8ae77a8658914238905ded69"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_light_blue.json"
-hash = "f35a7913aea890eced3f83bdc2dfb2dcc7c3410262bab6420a69fb1b3d34245d"
+hash = "e246c4150a69ff141967a318bdc44abe8be1ebb958dc126af09ecae9b38d2752"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_light_gray.json"
-hash = "5764041e14110c52ca6885cfd6393f57b63b72e36eb660a466a2b10c30e33240"
+hash = "23e41e11e892f67303fad15fa6082975870e3b87004c16db4c85421fae1a58c1"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_lime.json"
-hash = "7ea41a40304e096d617aea2ff2bb25150fbad39250d25badc3c4cdf5f0fc1aaa"
+hash = "76fb122a2a74ba4b155d901e2d78662daaff0b3074988d4dc53cd42c5894519d"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_magenta.json"
-hash = "2a54a401d6cc93673304bb425c69a71e0277394e528deb6021c39cbc62809db2"
+hash = "937825bd091a6884246b7a1eaaa2b6484012b60d98c56912f42ee50770faec24"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_orange.json"
-hash = "a4ddc06ff0195809074661846fc12bc2da16713d596b1e699a5593692c63b7d4"
+hash = "4400e56380b8679bf19a8404a8d9bb46f5ede612f5c869872fe887a7a1d6f167"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_pink.json"
-hash = "a88397d1a8967402fd9c8e8be51dd9d66528881fd32c6a3a3190c4e6b4ea86b9"
+hash = "7f4699156b11a56f4e5c4e939e3a7d5b6a76dd70c16e882c39438a1bc5e85520"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_prismatic.json"
@@ -258,19 +258,19 @@ hash = "bd57d5e9580fe6b63cc8665ff7a5fc83795a33c6f824d2b51037c5cd76a43961"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_purple.json"
-hash = "c3d5265c7c5c928745d6491de6e25f8eb8f2a96548b1372bd9f73bafdea828d9"
+hash = "60ac012f93b7f4bb4e72d39eeb3767b1a3ad0b5bf6d8a89a2a73d45c13c3b12c"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_red.json"
-hash = "1b6142feed7d20a92b9da06cf5c2e880493b5503b9119648e1c7bafff28620cd"
+hash = "5692c0e0f6a0b7b1bb29c788863c82dac9db85ef458c0cac7d940c8469b350c5"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_white.json"
-hash = "da1c536fe249cfed1b9ea710b089aec5b95613ce95bfaf830f8aeaadc8e6bd48"
+hash = "0f7a6e9fd5a776cc585da0b5a77cb338cbbf81ac0b025bad0dd7855b7b9df53b"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_yellow.json"
-hash = "1586a8838c18fbf04fb2dd25975e229d2574efa05a147e97d6336980bf9ecc5a"
+hash = "d79e74a01f2db286724c7ed77d9d092af4bf39274b8cd703fccf02ad15b76c0d"
 
 [[files]]
 file = "global_packs/required_data/christmas/pack.mcmeta"
