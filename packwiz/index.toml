@@ -110,15 +110,15 @@ hash = "4345914316b46baf573b98ffb3a7be77741068fad5110326fc926f75b02b2f9d"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/drink_coffee.mcfunction"
-hash = "669fb3c2da1caa3c49e32855f65db5980431f816e0269f4e4940c9877d0f60ed"
+hash = "f419662493373c0a6a09133d1b3cdf732b06923ec396c2229a799992c1989c83"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/drink_glow_berry_tea.mcfunction"
-hash = "5e9ed599479d8e24813a6d4c0ff66ba85c1ea98ebaf5112b93e2fa56f027ce44"
+hash = "4789274460cbaea5c3579837a2bc196c3f5bed5473a83652ec26c2e22666cc00"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/drink_hot_chocolate.mcfunction"
-hash = "f81017166afd55ddc17d372521de8efbdce39ca0b02e2e96d57bc487b8e38bea"
+hash = "86ad423124e751f0249429f0a6b3990a428f34e6f6b8ca22f022520bd80c0e13"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/load.mcfunction"
