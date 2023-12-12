@@ -77,6 +77,10 @@ file = "config/openpartiesandclaims-server.toml"
 hash = "b72e37d67cee8ecfaf0ab986671be294f6094349583f6200a390b316e035ab33"
 
 [[files]]
+file = "config/sandwichable.json"
+hash = "ad53426a40cd027a6b1a0f290bbf07b0d6f62223fa70b130d87afae106fefa89"
+
+[[files]]
 file = "config/snowrealmagic-common.yaml"
 hash = "159d124b747cd3a1d28e99a0e0b859209395a4454df203f9692da025c6ed3e6c"
 
@@ -202,7 +206,7 @@ hash = "59f0b79c715ad5426c65995982bc69908c9c47a64da6d7dc6a461580e9b7334b"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/gen_glow_lights.py"
-hash = "f573106d459f2a2db3c8849cc411f0d2946699513dfaee7a6b0101e51d93afab"
+hash = "f167e60d3110c7a1ceb0b3c4d262ac8afcba995165bacae28e3f35f442faee0e"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_black.json"
@@ -254,7 +258,7 @@ hash = "7f4699156b11a56f4e5c4e939e3a7d5b6a76dd70c16e882c39438a1bc5e85520"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_prismatic.json"
-hash = "bd57d5e9580fe6b63cc8665ff7a5fc83795a33c6f824d2b51037c5cd76a43961"
+hash = "ca6806b85330f63382b3a1d9062b0f2b93d05ed523fe270e474c6f45884d3b81"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_purple.json"
