@@ -1,0 +1,34 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:black_dye"
+        }
+    ],
+    "results": [
+        {
+            "item": "winterly:black_gift_box"
+        }
+    ]
+}

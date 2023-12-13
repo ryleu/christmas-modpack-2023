@@ -1,0 +1,34 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:cyan_dye"
+        }
+    ],
+    "results": [
+        {
+            "item": "winterly:cyan_gift_box"
+        }
+    ]
+}

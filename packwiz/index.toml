@@ -141,6 +141,42 @@ file = "global_packs/required_data/christmas/data/christmas/recipes/coarse_dirt_
 hash = "b890f41f3e387fe3bb264de879d2fc126d5852a13b588322f028da5428a9e368"
 
 [[files]]
+file = "global_packs/required_data/christmas/data/christmas/recipes/compacting_gifts/gift_box_black.json"
+hash = "09c83c8a737a7ce9b7953e217a71d9e8757492f4767245579e94d3b3c08f6c65"
+
+[[files]]
+file = "global_packs/required_data/christmas/data/christmas/recipes/compacting_gifts/gift_box_blue.json"
+hash = "31319f4c65ec873cd260f1cc4531a60aa88bcc5716426ddb2ec6ca082df3f63c"
+
+[[files]]
+file = "global_packs/required_data/christmas/data/christmas/recipes/compacting_gifts/gift_box_cyan.json"
+hash = "ecb7f2bb99fe4fe20ee9ab15755cfc2f2047c319b8cda4e64e1ec8c7894198e1"
+
+[[files]]
+file = "global_packs/required_data/christmas/data/christmas/recipes/compacting_gifts/gift_box_green.json"
+hash = "048ae3203edd50135612e571c84ecf177f3b5fb7797f8c13569cf0352fdca050"
+
+[[files]]
+file = "global_packs/required_data/christmas/data/christmas/recipes/compacting_gifts/gift_box_orange.json"
+hash = "d924e53f0ccf64dfbc4b12b1cc86c5391a01f2161e36b83b9aaa5a24b2575c71"
+
+[[files]]
+file = "global_packs/required_data/christmas/data/christmas/recipes/compacting_gifts/gift_box_purple.json"
+hash = "76de33a4623dd992f44430ac02292b9179df3d0c87a637c907ad3e3b7ae56b0f"
+
+[[files]]
+file = "global_packs/required_data/christmas/data/christmas/recipes/compacting_gifts/gift_box_red.json"
+hash = "38100c4b469ad6b6369b642c4346c0833e6077fd1e605dbb30196b08eca2af99"
+
+[[files]]
+file = "global_packs/required_data/christmas/data/christmas/recipes/compacting_gifts/gift_box_white.json"
+hash = "59717a6920e84d754c35ca908c9a537bdff69580b1623cc4f2a1cf3c13a17aec"
+
+[[files]]
+file = "global_packs/required_data/christmas/data/christmas/recipes/compacting_gifts/gift_box_yellow.json"
+hash = "7056ae49faf247f3d5c44a37782af15969b0f887a4179d7bc6626e3c392acf11"
+
+[[files]]
 file = "global_packs/required_data/christmas/data/christmas/recipes/crush_snow.json"
 hash = "80ff2b74d44083d9c0f9d5e77d78ec40043224561e193ec1b66f22bcf1ae6478"
 
@@ -203,10 +239,6 @@ hash = "2134d841c8bec1c59c0b2fc6eb1178fc659d21062641a716ef240d8ed7bec0be"
 [[files]]
 file = "global_packs/required_data/christmas/data/qu-enchantments/tags/entity_types/nightblood_immune_entities.json"
 hash = "59f0b79c715ad5426c65995982bc69908c9c47a64da6d7dc6a461580e9b7334b"
-
-[[files]]
-file = "global_packs/required_data/christmas/data/snowyspirit/recipes/gen_glow_lights.py"
-hash = "0a1e237fabe1744729429adeee6e85d00c514d3fb0384a8ff0f5a2c38081aade"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/snowyspirit/recipes/glow_lights_black.json"

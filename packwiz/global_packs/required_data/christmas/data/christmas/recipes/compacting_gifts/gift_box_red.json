@@ -1,0 +1,34 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:paper"
+        },
+        {
+            "item": "minecraft:red_dye"
+        }
+    ],
+    "results": [
+        {
+            "item": "winterly:red_gift_box"
+        }
+    ]
+}
