@@ -281,6 +281,14 @@ file = "global_packs/required_data/christmas/data/trinkets/tags/items/hand/glove
 hash = "0a4825588706a81403dfa03a0b47419af5bac7a596d0e6f2acfc63775d087f42"
 
 [[files]]
+file = "global_packs/required_data/christmas/data/winterly/recipes/garland_lights.json"
+hash = "0c894e9743f33d17625c7c0581dd8da0bf56b35f3ae34be12666b0d27ca2f2f9"
+
+[[files]]
+file = "global_packs/required_data/christmas/data/winterly/recipes/rainy_garland_lights.json"
+hash = "4809004b46072d685eb39be9225c46b0be9aad9fdf4fc0d8d044c5f7038d175c"
+
+[[files]]
 file = "global_packs/required_data/christmas/pack.mcmeta"
 hash = "edd3db6af1b5c7c3b9137618aa8093610af8e28ead73c0a4d9661131bb3687f8"
 
