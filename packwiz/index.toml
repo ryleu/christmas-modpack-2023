@@ -510,6 +510,11 @@ hash = "4ba45966a267b774f5d83442c3c43d740f55e11a910e117e50c046b4f77b5c66"
 metafile = true
 
 [[files]]
+file = "mods/difficulty.pw.toml"
+hash = "4ca4eb5031b5a321e34a6fde9e66bb906c0cb09b52cd319443c254fb80114f93"
+metafile = true
+
+[[files]]
 file = "mods/do-api.pw.toml"
 hash = "30fb7e07f424a4a159219da3a77841f335357651a081033f5ddcd880814928a2"
 metafile = true
