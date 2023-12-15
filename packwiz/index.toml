@@ -455,6 +455,11 @@ hash = "524505b468ca28db75538936dbaea65fc42d13d07e821ed8c054fe7146044535"
 metafile = true
 
 [[files]]
+file = "mods/clutter.pw.toml"
+hash = "07e694253f4c6a6a96256445452da74527c1132498185af93ba8dd1b61607751"
+metafile = true
+
+[[files]]
 file = "mods/collective.pw.toml"
 hash = "207cb16cc3745c3a10bd99ab41cb683dc4cf388e733c683b4c1d84a6f785e874"
 metafile = true
@@ -612,6 +617,11 @@ metafile = true
 [[files]]
 file = "mods/explorify.pw.toml"
 hash = "9ec8d9ecfedbd3cc30dc19b91f37a540ff9340debf035cbb81a7103f65e086f1"
+metafile = true
+
+[[files]]
+file = "mods/extra-mod-integrations.pw.toml"
+hash = "4b5af07a3311d776868ed6f0c22180ab50f224caca07e6fd7b33c6d8bb2ff80d"
 metafile = true
 
 [[files]]
