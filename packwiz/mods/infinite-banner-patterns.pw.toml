@@ -1,0 +1,13 @@
+name = "Infinite Banner Patterns"
+filename = "infinite-banner-stack-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mOsKcnBr/versions/WBCTEupq/infinite-banner-stack-1.1.0.jar"
+hash-format = "sha1"
+hash = "ba43bcd02be5d19c41dcb0d8a856bec3288942ca"
+
+[update]
+[update.modrinth]
+mod-id = "mOsKcnBr"
+version = "WBCTEupq"

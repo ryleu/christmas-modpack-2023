@@ -705,6 +705,11 @@ hash = "0c5e71addef34c8dcd1c81dfc2ad851a3e274b9d8d3a7d388e1113d4139bf8d8"
 metafile = true
 
 [[files]]
+file = "mods/infinite-banner-patterns.pw.toml"
+hash = "2c3770aef3857db272e27c5692d9d9fd9c9ec3b6722c373cd02d90d29184589e"
+metafile = true
+
+[[files]]
 file = "mods/inmis.pw.toml"
 hash = "feefe07278b869d769f1f679c89f9e37056558802cf16d0f96f79759ac372ba8"
 metafile = true
