@@ -1,0 +1,13 @@
+name = "AutoAttack"
+filename = "autoattack-mc1.20.1-v1.3.5.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/AUfWGrm6/versions/TsLGLXUr/autoattack-mc1.20.1-v1.3.5.jar"
+hash-format = "sha1"
+hash = "71c9f8ef2271a469c059ae67f6bf798cbde3df78"
+
+[update]
+[update.modrinth]
+mod-id = "AUfWGrm6"
+version = "TsLGLXUr"

@@ -4,7 +4,8 @@
         "mca:wedding_ring_rg",
         "mca:engagement_ring",
         "mca:engagement_ring_rg",
-        "mca:matchmakers_ring"
+        "mca:matchmakers_ring",
+        "candlelight:gold_ring"
     ],
     "replace": false
 }
