@@ -24,7 +24,8 @@ services:
       DIFFICULTY: "HARD"
       SEED: "-8364859455763282250"
       SPAWN_PROTECTION: 0
-      VIEW_DISTANCE: 6
+      VIEW_DISTANCE: 10
+      SIMULATION_DISTANCE: 4
       OPS_FILE: "http://web/minecraft/ops.json"
       ENABLE_WHITELIST: false
       MEMORY: "4G"
