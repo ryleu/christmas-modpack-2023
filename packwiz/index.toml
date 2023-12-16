@@ -130,7 +130,11 @@ hash = "0b6495012231a5c5b53315d8842f44dd52a320e65d09285eac7cb80b30a34a69"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/functions/tick.mcfunction"
-hash = "2dc5a6a28ad674e11bff5e84ea19194b61b07b72cd90fa0f7258b9e24efce7c4"
+hash = "433f9f8c5631fec43c881d80ae3f9983546fa8c6da89acd9e350088f59d0d2b5"
+
+[[files]]
+file = "global_packs/required_data/christmas/data/christmas/functions/zombie_doorstop.mcfunction"
+hash = "a5f7f3a294052481394a14c811afcf028391f61f89fc778cfef2a785881ce177"
 
 [[files]]
 file = "global_packs/required_data/christmas/data/christmas/recipes/coarse_dirt_crushing.json"

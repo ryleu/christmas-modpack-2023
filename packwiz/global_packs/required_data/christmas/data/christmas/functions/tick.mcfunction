@@ -9,3 +9,4 @@ execute at @e[type=snowyspirit:sled] run fill ~1 ~1 ~3 ~-1 ~-1 ~-3 minecraft:sno
 execute at @e[type=snowyspirit:sled] run fill ~3 ~1 ~1 ~-3 ~-1 ~-1 minecraft:snow replace minecraft:snow
 
 execute as @e[type=minecraft:armor_stand, tag=!armed] run function christmas:arm_armor_stand
+execute as @e[type=minecraft:zombie, tag=!doorstopped] run function christmas:zombie_doorstop
