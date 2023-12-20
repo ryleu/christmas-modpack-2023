@@ -343,7 +343,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_resources/shield-corrections.pw.toml"
-hash = "71737dd839848760fc3fa6024f7d63ea59432f4a9775beb4e3c88e7ce3085490"
+hash = "1f11cdc8140e4748ec0edaf833fba0880158f99d11c35abb9e608ea5bdac3aeb"
 metafile = true
 
 [[files]]

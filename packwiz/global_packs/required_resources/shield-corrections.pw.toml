@@ -1,13 +1,8 @@
 name = "Shield Corrections"
-filename = "Shield Corrections [Colored].zip"
+filename = "Shield Corrections.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/gmX1HqJY/versions/I18IBQzt/Shield%20Corrections%20%5BColored%5D.zip"
+url = "https://github.com/ryleu/christmas-modpack-2023/files/13721673/Shield.Corrections.Regular.%2B.Frostiful.zip"
 hash-format = "sha1"
-hash = "39a2b1b2679d4a75c9d8c9f29cabe79929f5b369"
-
-[update]
-[update.modrinth]
-mod-id = "gmX1HqJY"
-version = "I18IBQzt"
+hash = "a79d954242a2e37d2dd66d420648765df20eabd2"
