@@ -342,6 +342,11 @@ hash = "5923c680ba9498fd3025a457ab2c57febc6c9c66bee660175df4d35eb17dc2a4"
 metafile = true
 
 [[files]]
+file = "global_packs/required_resources/shield-corrections.pw.toml"
+hash = "71737dd839848760fc3fa6024f7d63ea59432f4a9775beb4e3c88e7ce3085490"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "cacfa864fbcef1fe67e225eec84733b86c130d2cc218c9a492c10e7f332a33f5"
 metafile = true
