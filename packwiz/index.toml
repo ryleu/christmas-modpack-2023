@@ -205,6 +205,10 @@ file = "global_packs/required_data/christmas/data/christmas/recipes/packed_snowb
 hash = "da81c399c7335c94f765b5e4e789127459fdd02e027711b24191a75bc812809a"
 
 [[files]]
+file = "global_packs/required_data/christmas/data/christmas/recipes/pasta_mixing.json"
+hash = "ef041492d7fa6a9a2599775a54397fc1693c7b110c19c8a595184e65e4d77ab3"
+
+[[files]]
 file = "global_packs/required_data/christmas/data/christmas/recipes/winterly_to_frostiful_icicles.json"
 hash = "92b8b55146b5baa48638c2327a3ece7714a61c8e4736ce6169194aa1debbbf0e"
 
