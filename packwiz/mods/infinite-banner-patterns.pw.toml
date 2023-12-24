@@ -3,11 +3,11 @@ filename = "infinite-banner-stack-1.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/mOsKcnBr/versions/WBCTEupq/infinite-banner-stack-1.1.0.jar"
+url = "https://cdn.modrinth.com/data/mOsKcnBr/versions/moi92ex3/infinite-banner-stack-1.1.0.jar"
 hash-format = "sha1"
-hash = "ba43bcd02be5d19c41dcb0d8a856bec3288942ca"
+hash = "9b31b55ee2381ce6e06adf7656a1226abcc0923d"
 
 [update]
 [update.modrinth]
 mod-id = "mOsKcnBr"
-version = "WBCTEupq"
+version = "moi92ex3"
