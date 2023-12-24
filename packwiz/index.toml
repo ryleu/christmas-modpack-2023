@@ -446,6 +446,11 @@ hash = "4c712d7ad6d2ddb130b845c3b2c660be7cb7795db21be00b130443730719305e"
 metafile = true
 
 [[files]]
+file = "mods/cardinal-components-api.pw.toml"
+hash = "50e3b067e93d3e6683d540edc4d046ed7b6b5fbb31409df1727b120f225b1975"
+metafile = true
+
+[[files]]
 file = "mods/carpet.pw.toml"
 hash = "095a93b4f0b4e2b8fadf8359bc145cbdd83be3c5bf23432e9a5f4e54d60de5b4"
 metafile = true
@@ -751,6 +756,11 @@ hash = "bd14735296607c2f58e3130748610d08ab6407afcb1d7cd168e856a0012173a7"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "4a37864ebe44ddf66f7a127683adc76515d3dc97f8d8dba6fe362c43a1f39464"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "536294eb29de5d46896475f0ca6331eff60bed69856193e61658da8e31f811f6"
 metafile = true
@@ -993,6 +1003,11 @@ metafile = true
 [[files]]
 file = "mods/url-music-discs.pw.toml"
 hash = "3df75e1a97ba5ca1de0af4ca1bbd9f5aa1169c646340f88526e908e8fb76bfb4"
+metafile = true
+
+[[files]]
+file = "mods/utility-belt.pw.toml"
+hash = "04c30338459c2c9d9087dd7bcc2734745b51230a20ab04d392a85dbeb2c0c5de"
 metafile = true
 
 [[files]]
