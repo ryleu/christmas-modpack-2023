@@ -1,0 +1,8 @@
+name = "Vanilla Tweaks"
+filename = "VanillaTweaks_r315929.zip"
+side = "client"
+
+[download]
+url = "https://vanillatweaks.net/download/VanillaTweaks_r315929.zip"
+hash-format = "sha1"
+hash = "ee71da6e019ed0ce0bf3f877f21981babe90ed19"

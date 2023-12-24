@@ -351,6 +351,11 @@ hash = "1f11cdc8140e4748ec0edaf833fba0880158f99d11c35abb9e608ea5bdac3aeb"
 metafile = true
 
 [[files]]
+file = "global_packs/required_resources/vanillatweaks.pw.toml"
+hash = "ff4ca4a6ea14dffafc0f8a2a61d55386f89ca9e81dec36efe78cd521d24c89d3"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "b7750fd27c8cb35d0cdbb0347e40cdbbbfdb4a08f24855c6803e7a69e1f06665"
 metafile = true
