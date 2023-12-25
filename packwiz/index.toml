@@ -402,7 +402,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "4edd1355c4ffd33c391b6ae91d69f589c08e4b699b63788e59340e0a032ff348"
+hash = "9bc11983cc086e4e8123050788138043689f6c7a1af03d048c8830a165a1921e"
 metafile = true
 
 [[files]]
@@ -492,7 +492,7 @@ metafile = true
 
 [[files]]
 file = "mods/clutter.pw.toml"
-hash = "101a8aca86f42b72d0902f1f613b621f57d1d2abd4cc25a58f9707b423673f89"
+hash = "33e946dc468efd4ca77f47e86243977fcb63aa60cf2e97ba8f315eff48991168"
 metafile = true
 
 [[files]]
@@ -732,7 +732,7 @@ metafile = true
 
 [[files]]
 file = "mods/hibernal-herbs.pw.toml"
-hash = "7a9342e0d860d8265df43049c858e5bc391c167cbb9ff4238436c5c003680ffd"
+hash = "f630c4bde48f8c175e0c47f796a94766f0b9bfe6396631e7f51b73a1005b1c12"
 metafile = true
 
 [[files]]
@@ -832,7 +832,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "87d55e42e8095facbf1c4b28432ea0a4d6d08a0aa3add54a3b07c2fc74bcc129"
+hash = "233e9c41f05e0c301c0d80bfef77f409c16f73959587b5db44269186e96f94d0"
 metafile = true
 
 [[files]]
@@ -917,7 +917,7 @@ metafile = true
 
 [[files]]
 file = "mods/snow-real-magic.pw.toml"
-hash = "cc274d132190a6b1539bc0ab9ed43a2ad638e94de8ae6b8141b36e0b86de3893"
+hash = "6fd593e4ac6bd3148b0c38c87770dea3e48ee92b91d0c3b177e1915d10e6c598"
 metafile = true
 
 [[files]]
