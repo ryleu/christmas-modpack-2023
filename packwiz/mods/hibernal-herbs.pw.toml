@@ -1,13 +1,13 @@
 name = "Hibernal Herbs"
-filename = "HibernalHerbs-fabric-1.20.1-1.1.jar"
+filename = "HibernalHerbs-fabric-1.20.1-1.1-hotfix-2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8fBUTFL3/versions/rnc3g67R/HibernalHerbs-fabric-1.20.1-1.1.jar"
+url = "https://cdn.modrinth.com/data/8fBUTFL3/versions/YlYBbFtY/HibernalHerbs-fabric-1.20.1-1.1-hotfix-2.jar"
 hash-format = "sha1"
-hash = "4f30d6d2cd7a0970fc0bf25286cf38fa9e024d06"
+hash = "edd3a97462909462ef05936959a70b62c74714cb"
 
 [update]
 [update.modrinth]
 mod-id = "8fBUTFL3"
-version = "rnc3g67R"
+version = "YlYBbFtY"
