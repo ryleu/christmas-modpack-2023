@@ -8,6 +8,7 @@ services:
     ports:
       - "25565:25565" # minecraft
       - "8100:80" # bluemap
+      - "24454:24454/udp" # voice chat
     restart: always
     environment:
       TYPE: "FABRIC"
