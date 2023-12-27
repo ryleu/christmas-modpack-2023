@@ -381,11 +381,6 @@ hash = "e954c2f9ea9195ef558f0cb7dbc7057f2086348fc4a78186bc399145c18b4bb9"
 metafile = true
 
 [[files]]
-file = "mods/autoattack.pw.toml"
-hash = "b1cc9b9d72f930a315f2d46095c512b0d6c0afc12018479c324c38eac7a5cf22"
-metafile = true
-
-[[files]]
 file = "mods/autotag.pw.toml"
 hash = "ea6fc6fba3ad1e9868e7807b17c04ebbad43a073b9be6d9374290b94eaa82e79"
 metafile = true
