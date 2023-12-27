@@ -18,7 +18,7 @@ services:
       DIFFICULTY: "HARD"
       SEED: "-8364859455763282250"
       SPAWN_PROTECTION: 0
-      VIEW_DISTANCE: 10
+      VIEW_DISTANCE: 4
       SIMULATION_DISTANCE: 4
       OPS_FILE: "https://ryleu.me/christmas-modpack-2023/minecraft/ops.json"
       WHITELIST_FILE: "https://ryleu.me/christmas-modpack-2023/minecraft/whitelist.json"
