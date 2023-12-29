@@ -352,7 +352,7 @@ metafile = true
 
 [[files]]
 file = "global_packs/required_resources/vanillatweaks.pw.toml"
-hash = "ff4ca4a6ea14dffafc0f8a2a61d55386f89ca9e81dec36efe78cd521d24c89d3"
+hash = "52ba9a7ae0be623986fe6c4bdc5ad172d7f4d4fc44bc518944c798d7f29dd3b4"
 metafile = true
 
 [[files]]
